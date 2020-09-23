@@ -1,0 +1,11 @@
+[01;34m.[00m
+├── [       4096]  [01;34mdata[00m
+├── [       4096]  [01;34mmt[00m
+├── [          0]  name
+├── [       2251]  README.md
+├── [        391]  [01;32mentrypoint.sh[00m
+├── [        433]  docker-compose.yml
+├── [       1756]  Dockerfile
+└── [       6997]  apache2.conf
+
+2 directories, 6 files
